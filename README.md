@@ -1,16 +1,78 @@
-# React + Vite
+# TaskFlow — Task Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A professional and responsive task management application built with React.js. TaskFlow helps users organize daily work, manage priorities, and track tasks through a clean and user-friendly dashboard.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Task Management System](https://07-task-management-system.atwebpages.com/)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Task Management:** Create, edit, and delete tasks.
+- **Search Tasks:** Quickly find tasks using search.
+- **Filter Tasks:** Organize tasks by their status or category.
+- **Local Storage:** Keep tasks saved in the browser.
+- **Responsive Design:** Optimized for desktop, tablet, and mobile screens.
+- **Interactive Dashboard:** Manage tasks through a simple interface.
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Browser Local Storage
+
+## 📸 Screenshots
+
+Add a screenshot of the application here to showcase its interface.
+
+<!-- Replace this comment with your screenshot after uploading it to the repository. -->
+
+## 💻 Run Locally
+
+### Prerequisites
+
+Install [Node.js](https://nodejs.org/) and npm.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/hibbahammad/07-task-management-system.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd 07-task-management-system
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL shown in your terminal.
+
+## 👩‍💻 Developer
+
+**Hibba Hammad**  
+Full-Stack Developer | MERN Stack
+
+- **GitHub:** [hibbahammad](https://github.com/hibbahammad)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hibba-hammad-0b4b643a2/)
+- **Portfolio:** [View my portfolio](https://hibba-portfolio.netlify.app/)
+
+---
+
+If you find this project useful, feel free to explore the repository.
